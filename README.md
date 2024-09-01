@@ -1,1 +1,1 @@
-🚀 Breaking keyboards and hearts in equal measure. Full-stack wizard on a mission to turn coffee into code and dreams into apps. Currently, crafting Android spells with Kotlin & Jetpack—because who needs sleep anyway? 😴💻☕️
+🚀 Breaking keyboards and hearts in equal measure. Full-stack wizard on a mission to turn coffee into code and dreams into apps. Currently, crafting Web-Application spells with MERN stack who needs sleep anyway? 😴💻☕️
