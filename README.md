@@ -1,7 +1,7 @@
 # 👋 Hi, I’m Kanishk Chandna
 
 🚀 Full Stack Developer (MERN + Next.js) | Passionate about building real-world web apps  
-🌐 Portfolio: [nexwebstudios.in](https://www.nexwebstudios.in)  
+🌐 Portfolio: [kanishk.codes](https://www.kanishk.codes)  
 📫 Reach me: kanishkchandna29@gmail.com
 
 ---
