@@ -1,6 +1,6 @@
 # 👋 Hi, I’m Kanishk Chandna
 
-🚀 Full Stack Developer (MERN + Next.js) | Passionate about building real-world web apps  
+🚀 GenAI Full Stack Developer | Passionate about building real-world web apps  
 🌐 Portfolio: [kanishk.codes](https://www.kanishk.codes)  
 📫 Reach me: kanishkchandna29@gmail.com
 
@@ -15,11 +15,11 @@
 
 ### 📌 Featured Projects
 
-#### 🍽 [Dishy – The Flavour Network](https://github.com/Kanishk2004/dishy)
+#### 🍽 [Thumbly - Generate thumbnails within seconds](https://github.com/Kanishk2004/ai-thumbnail-artist)
 A full-stack recipe sharing platform  
 - 🔐 JWT Authentication | 📧 Email Verification  
 - ☁️ Cloudinary Uploads | 🧠 Real MongoDB Schema Design  
-- 🌍 Live at: [nexwebstudios.in](https://www.nexwebstudios.in)
+- 🌍 Live at: [thumbly.kanishk.app](https://thumbly.kanishk.app)
 
 ---
 
